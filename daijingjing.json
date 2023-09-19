@@ -1,0 +1,131 @@
+{
+  "titleNameMap": {
+    "educationList": "教育背景",
+    "workExpList": "工作经历",
+    "projectList": "项目经历",
+    "skillList": "个人技能",
+    "awardList": "更多信息",
+    "workList": "个人作品",
+    "aboutme": "自我介绍"
+  },
+  "avatar": { "hidden": true },
+  "profile": {
+    "name": "戴婧婧",
+    "email": "daijingjing@example.com",
+    "mobile": "18712345678",
+    "zhihu": "",
+    "workExpYear": "",
+    "workPlace": "",
+    "positionTitle": ""
+  },
+  "educationList": [
+    {
+      "edu_time": ["2020.09.01", "2024.06.30"],
+      "school": "曲阜师范大学",
+      "major": "戏剧影视文学",
+      "academic_degree": "本科",
+      "dataIndex": 0
+    }
+  ],
+  "awardList": [
+    {
+      "award_info": "曲阜师范大学三等奖学金",
+      "award_time": "2021",
+      "dataIndex": 0
+    },
+    {
+      "award_info": "山东省大学生戏剧影视文学大赛一等奖",
+      "award_time": "2022",
+      "dataIndex": 1
+    }
+  ],
+  "workExpList": [
+    {
+      "work_time": "2021-2022",
+      "company_name": "曲阜师范大学戏剧社",
+      "department_name": "社长",
+      "work_desc": "负责组织和策划戏剧演出、推广戏剧文化",
+      "dataIndex": 0
+    }
+  ],
+  "skillList": [
+    {
+      "skill_name": "戏剧表演",
+      "skill_level": 80,
+      "skill_desc": "在多次学校演出中担任主演",
+      "dataIndex": 0
+    },
+    {
+      "skill_name": "编剧",
+      "skill_level": 70,
+      "skill_desc": "编写并成功上演多部短剧",
+      "dataIndex": 1
+    }
+  ],
+  "projectList": [
+    {
+      "project_time": "2021",
+      "project_name": "青春的回忆",
+      "project_role": "主演",
+      "project_desc": "一部反映大学生活的现代话剧",
+      "project_content": "担任主角，负责剧情推进和情感表达",
+      "dataIndex": 0
+    },
+    {
+      "project_time": "2020",
+      "project_name": "校园之光",
+      "project_role": "导演",
+      "project_desc": "描述大学生活中的友情和挑战",
+      "project_content": "从策划到后期制作，完整负责此话剧的呈现",
+      "dataIndex": 1
+    },
+    {
+      "project_time": "2019",
+      "project_name": "梦想之翼",
+      "project_role": "编剧",
+      "project_desc": "描绘大学生如何追求自己的梦想",
+      "project_content": "创作脚本，并协助导演进行场景布置",
+      "dataIndex": 2
+    },
+    {
+      "project_time": "2018",
+      "project_name": "时光机",
+      "project_role": "主演",
+      "project_desc": "一部关于时间旅行的奇幻剧",
+      "project_content": "演绎一名穿越时空的勇士，面对种种困难不放弃",
+      "dataIndex": 3
+    },
+    {
+      "project_time": "2022",
+      "project_name": "青春旋律",
+      "project_role": "策划",
+      "project_desc": "集结学校各社团，共同打造的大型舞台表演",
+      "project_content": "统筹各部分的工作，确保表演的完美呈现",
+      "dataIndex": 4
+    },
+    {
+      "project_time": "2020",
+      "project_name": "毕业之歌",
+      "project_role": "制片人",
+      "project_desc": "以即将毕业的学生为背景的情感话剧",
+      "project_content": "负责整体制作，从选角到舞台设计，全程参与",
+      "dataIndex": 5
+    }
+  ],
+
+  "workList": [
+    {
+      "work_name": "青春的回忆",
+      "work_desc": "一部反映大学生活的现代话剧，受到师生的一致好评",
+      "visit_link": "https://example.com/qingchun",
+      "dataIndex": 0
+    }
+  ],
+
+  "aboutme": {
+    "aboutme_desc": "🌱 我是戴婧婧，一名热爱戏剧和影视的学生。从小，我就对舞台上的光影魅力深深着迷，喜欢通过表演展现人物的魅力。目前，我就读于曲阜师范大学文学院戏剧影视文学专业，不仅深入研究戏剧理论，还积极参与各种校园演出，致力于将所学知识运用到实践中。除了戏剧，我还热衷于探索影视制作技巧，期待未来能在大荧幕上留下自己的痕迹。"
+  },
+
+  "theme": { "color": "#2f5785", "tagColor": "#8bc34a" },
+  "template": "template1"
+}

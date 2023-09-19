@@ -37,28 +37,28 @@
     {
       "award_info": "山东省大学生软件设计大赛省三等奖",
       "award_time": "2022",
-      "dataIndex": 0
+      "dataIndex": 1
     },
     {
       "award_info": "两项软件著作权",
       "award_time": "2022",
-      "dataIndex": 0
+      "dataIndex": 2
     },
     { "award_info": "英语 CET4", "award_time": "2021.6", "dataIndex": 1 },
     {
       "award_info": "曲阜师范大学“三等奖学金”",
       "award_time": "2021",
-      "dataIndex": 2
+      "dataIndex": 3
     },
     {
       "award_info": "曲阜师范大学排球毕业杯联赛第二名",
       "award_time": "2021",
-      "dataIndex": 3
+      "dataIndex": 4
     },
     {
       "award_time": "2020",
       "award_info": "曲阜师范大学军训活动优秀标兵",
-      "dataIndex": 4
+      "dataIndex": 5
     }
   ],
   "workExpList": [
@@ -73,74 +73,116 @@
       "work_time": "2022-2023",
       "company_name": "曲阜师范大学网络空间安全学院",
       "department_name": "团委副书记",
-      "work_desc": "负责学院团委相关的工作，以及学院的宣传工作，与主席团其他成员共同统筹开展学院学生工作"
+      "work_desc": "负责学院团委相关的工作，以及学院的宣传工作，与主席团其他成员共同统筹开展学院学生工作",
+      "dataIndex": 1
     },
     {
       "work_time": "2020-2021",
       "company_name": "曲阜师范大学校社团联合会",
       "department_name": "志愿者",
-      "work_desc": "负责学校社团活动的开展工作，审核活动策划书，协助开展社团的活动"
+      "work_desc": "负责学校社团活动的开展工作，审核活动策划书，协助开展社团的活动",
+      "dataIndex": 2
     }
   ],
   "skillList": [
     {
-      "skill_name": "Vim",
+      "skill_name": "编程语言",
+      "skill_desc": "熟悉多种编程语言，包括C、Cpp、Java、Python、Lua、TypeScript和JavaScript，能够灵活应用于不同的项目和场景。",
       "skill_level": 70,
-      "skill_desc": "功能强大的编辑器，提高编写代码的效率",
+
       "dataIndex": 0
     },
     {
-      "skill_name": "Shell",
-      "skill_level": 60,
-      "skill_desc": "熟悉Shell命令行命令可提高效率",
+      "skill_name": "文本编辑",
+      "skill_desc": "高效使用Vim编辑器，可以迅速地编写和修改代码，提高工作效率。",
+      "skill_level": 70,
       "dataIndex": 1
     },
     {
-      "skill_name": "Java",
-      "skill_level": 60,
-      "skill_desc": "全球热门的编程语言之一",
+      "skill_name": "命令行操作",
+      "skill_desc": "精通Shell命令和脚本，能够高效地进行系统管理和任务自动化。",
+      "skill_level": 70,
       "dataIndex": 2
+    },
+    {
+      "skill_name": "系统管理",
+      "skill_desc": "深入了解Linux操作系统，能够进行系统配置、优化和故障排查。",
+      "skill_level": 70,
+      "dataIndex": 3
+    },
+    {
+      "skill_name": "版本控制",
+      "skill_desc": "熟练使用Git进行代码管理，可以高效地进行团队合作和版本控制。",
+      "skill_level": 70,
+      "dataIndex": 4
+    },
+    {
+      "skill_name": "容器化技术",
+      "skill_desc": "掌握Docker技术，可以构建、部署和管理容器，提高应用的可移植性和可扩展性。",
+      "skill_level": 70,
+      "dataIndex": 5
     }
   ],
+
   "projectList": [
     {
       "project_time": "2020-2021",
       "project_name": "党团在线",
       "project_role": "项目成员",
-      "project_desc": "用户可通过党团助手微信小程序查询党建新闻、阅读党史书籍、查看党史题库，小程序实时推送学校党团活动和党建通知，督促青年学子提交材料、组织部成员审核相关材料，方便青年学子了解入党流程以及入党材料的撰写模板。",
-      "project_content": "撰写相关文档，优化页面布局，贡献部分代码"
+      "project_desc": "开发党团助手微信小程序，为用户提供党建资源和通知。",
+      "project_content": "撰写技术文档，参与前端布局优化，实现部分功能模块的代码编写。",
+      "dataIndex": 0
     },
     {
       "project_time": "2022",
       "project_name": "个人博客",
       "project_role": "开发者",
-      "project_desc": "利用hexo构建的个人博客，支持markdown格式的文件，支持LaTeX的公式，本地更改markdown文件提交时即可自动更新页面",
-      "project_content": "主要代码的开发，以及环境的配置，个人博客内容的撰写"
+      "project_desc": "使用hexo框架搭建的个人博客，支持markdown和LaTeX。",
+      "project_content": "完整的博客代码开发，环境配置以及文章撰写。",
+      "dataIndex": 1
     },
     {
       "project_time": "2021-2022",
-      "project_name": "家教辅导",
-      "project_role": "家教",
-      "project_desc": "作为大学生的工作体验，找到适合自己的发展路线。",
-      "project_content": "在校期间进行兼职，主要是进行一对一高中生的数学辅导。"
+      "project_name": "云端备份工具",
+      "project_role": "主要开发者",
+      "project_desc": "一个自动化的云备份工具，支持多种云存储平台。",
+      "project_content": "设计并实现备份策略，优化数据存储效率，整合多个云平台API。",
+      "dataIndex": 2
+    },
+    {
+      "project_time": "2022",
+      "project_name": "实时通讯应用",
+      "project_role": "后端开发",
+      "project_desc": "一个多人实时聊天应用，支持文本、图片和音视频通讯。",
+      "project_content": "负责服务器架构设计，实现消息分发和存储逻辑，优化通讯安全。",
+      "dataIndex": 3
     }
   ],
   "workList": [
     {
       "work_name": "党团在线",
-      "work_desc": "用户可通过党团助手微信小程序查询党建新闻、阅读党史书籍、查看党史题库，小程序实时推送学校党团活动和党建通知，督促青年学子提交材料、组织部成员审核相关材料，方便青年学子了解入党流程以及入党材料的撰写模板。",
+      "work_desc": "开发党团助手微信小程序，为用户提供党建资源和通知。",
       "visit_link": "https://github.com/desonglll/codes/tree/main/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/%E5%85%9A%E5%9B%A2%E5%8A%A9%E6%89%8B",
       "dataIndex": 0
     },
     {
-      "work_name": "个人博客",
-      "work_desc": "利用hexo构建的个人博客，支持markdown格式的文件，支持LaTeX的公式，本地更改markdown文件提交时即可自动更新页面",
-      "visit_link": "https://desonglll.github.io/hexo"
+      "work_name": "云端备份工具",
+      "work_desc": "自动化的云备份工具，简化了用户的备份流程，支持多种云存储平台。",
+      "visit_link": "https://github.com/desonglll/cloud-backup-tool",
+      "dataIndex": 1
+    },
+    {
+      "work_name": "实时通讯应用",
+      "work_desc": "支持文本、图片和音视频的多人实时聊天应用。",
+      "visit_link": "https://github.com/desonglll/realtime-chat-app",
+      "dataIndex": 2
     }
   ],
+
   "aboutme": {
-    "aboutme_desc": "🌱 Focus on data visualization and analysis \n😈 能力项：沟通协调能力、执行力\n"
+    "aboutme_desc": "🌱 在各种学科中，我总是被解决问题的方法所吸引。每个问题都像一个未解开的谜，等待我去揭示它背后的真相。😈 在团队合作中，我深知沟通与协调的重要性。有效的沟通可以使团队的工作更为顺畅，确保各个项目都能如期而至。我的执行力意味着我总是能够完成手头的任务，无论这需要面对多大的困难。我对探索新知识的热情从未减退，期待与志同道合的伙伴们一同发掘更多的未知领域。"
   },
+
   "theme": { "color": "#2f5785", "tagColor": "#8bc34a" },
   "template": "template1"
 }
