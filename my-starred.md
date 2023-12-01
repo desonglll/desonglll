@@ -11,6 +11,7 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [Dockerfile](#dockerfile)
+- [Erlang](#erlang)
 - [Go](#go)
 - [HTML](#html)
 - [Handlebars](#handlebars)
@@ -80,6 +81,10 @@
 
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 - [soulteary/docker-gitbook-pdf-generator](https://github.com/soulteary/docker-gitbook-pdf-generator) - 如果你想使用 GitBook 生成 PDF ，又不想折腾，使用这个项目就对啦！
+
+## Erlang 
+
+- [zhengqingya/docker-compose](https://github.com/zhengqingya/docker-compose) - 通过docker-compose编排一系列环境进行一键快速部署运行，小白运维神器。
 
 ## Go 
 
