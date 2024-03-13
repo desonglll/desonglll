@@ -127,6 +127,8 @@
 
 ## Java 
 
+- [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP 等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
+- [houbb/sensitive-word](https://github.com/houbb/sensitive-word) - 👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
 - [qguangyao/MySound](https://github.com/qguangyao/MySound) - A demo of playing notes written in Java
 - [maxiaof/github-hosts](https://github.com/maxiaof/github-hosts) - 通过修改Hosts解决国内Github经常抽风访问不到,每日更新
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing
@@ -362,7 +364,7 @@
 - [hijiangtao/resume](https://github.com/hijiangtao/resume) - 个人中文简历 Latex 源码 https://hijiangtao.github.io/
 - [TheNetAdmin/zjuthesis](https://github.com/TheNetAdmin/zjuthesis) - Zhejiang University Graduation Thesis LaTeX Template
 - [inyscc/MathFormula](https://github.com/inyscc/MathFormula) - 考研数学公式简单集合
-- [ricolxwz/Kaoyanshuxue](https://github.com/ricolxwz/Kaoyanshuxue) - 考研数学LaTeX
+- [ricolxwz/Kaoyanshuxue](https://github.com/ricolxwz/Kaoyanshuxue) - 考研数学二LaTeX
 - [erwanjun/weixin_tuisong](https://github.com/erwanjun/weixin_tuisong) - 基于猪咪不是猪老哥制作的微信公众号推送教程
 
 ## TypeScript 
