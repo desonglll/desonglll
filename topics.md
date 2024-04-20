@@ -83,6 +83,7 @@
 - [music](#music)
 - [mysql](#mysql)
 - [neovim](#neovim)
+- [nextjs](#nextjs)
 - [nlp](#nlp)
 - [nodejs](#nodejs)
 - [npm](#npm)
@@ -506,6 +507,7 @@
 
 ## latex 
 
+- [zachscrivena/simple-resume-cv](https://github.com/zachscrivena/simple-resume-cv) - Template for a simple resume or curriculum vitae (CV), in XeLaTeX.
 - [hijiangtao/resume](https://github.com/hijiangtao/resume) - 个人中文简历 Latex 源码 https://hijiangtao.github.io/
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [TheNetAdmin/zjuthesis](https://github.com/TheNetAdmin/zjuthesis) - Zhejiang University Graduation Thesis LaTeX Template
@@ -660,6 +662,10 @@
 - [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [theniceboy/nvim](https://github.com/theniceboy/nvim) - The Ultimate NeoVim Config for Colemak Users
+
+## nextjs 
+
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 
 ## nlp 
 
@@ -892,6 +898,7 @@
 
 ## react 
 
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
 - [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
