@@ -185,6 +185,7 @@
 
 ## Jupyter Notebook 
 
+- [lxztju/pytorch_classification](https://github.com/lxztju/pytorch_classification) - 利用pytorch实现图像分类的一个完整的代码，训练，预测，TTA，模型融合，模型部署，cnn提取特征，svm或者随机森林等进行分类，模型蒸馏，一个完整的代码
 - [SweetornotspicyMarathon/Learn-Tensorflow-Keras-Note](https://github.com/SweetornotspicyMarathon/Learn-Tensorflow-Keras-Note) - TensorFlow+Keras 深度學習人工智慧實務應用 書籍(作者:林大貴)學習筆記
 - [kaieye/2022-Machine-Learning-Specialization](https://github.com/kaieye/2022-Machine-Learning-Specialization) - 
 - [mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning) - Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.
@@ -284,6 +285,7 @@
 
 ## Python 
 
+- [Jack-Cherish/Deep-Learning](https://github.com/Jack-Cherish/Deep-Learning) - :computer:深度学习实战：手写数字识别、Discuz验证码识别、垃圾分类、语义分割
 - [SYkkk55/Face_recongize](https://github.com/SYkkk55/Face_recongize) - 原始檔案人臉辨識，之後要修正臉部偵測
 - [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [myminwang/myblog](https://github.com/myminwang/myblog) - Python+Django+MySQL 博客系统
