@@ -455,6 +455,7 @@
 
 ## TeX 
 
+- [gboeing/cv](https://github.com/gboeing/cv) - Geoff Boeing's academic CV in LaTeX
 - [jdavis/latex-homework-template](https://github.com/jdavis/latex-homework-template) - 🎓📄 The LaTeX file that I used as the base for all my homework in university.
 - [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
 - [Digital-Media/HagenbergThesis](https://github.com/Digital-Media/HagenbergThesis) - Hagenberg LaTeX Thesis Template
@@ -516,7 +517,7 @@
 
 ## Vue 
 
-- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux..
+- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
 - [geeeeeeeek/python_student](https://github.com/geeeeeeeek/python_student) - python+django开发的学生信息管理系统 - 毕业设计 - 课程设计
 - [zclzone/vue-naive-admin](https://github.com/zclzone/vue-naive-admin) - ⚡️基于 Vue3 + Vite + Pinia + Unocss + Naive UI 的轻量级后台管理模板。
 - [jamebal/jmal-cloud-view](https://github.com/jamebal/jmal-cloud-view) - JmalCloud 是一款私有云存储网盘项目，能够简单安全管理您的云端文件
