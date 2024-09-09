@@ -456,7 +456,7 @@
 
 ## Svelte 
 
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 
 ## Swift 
 
