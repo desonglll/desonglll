@@ -1,6 +1,6 @@
 ### Hi there 👋 , I'm desonglll
 
-<p align="center">
+<!-- <p align="center">
     <a title="Github Total Stars" target="_blank" href="https://github.com/desonglll">
         <img src="https://img.shields.io/github/stars/desonglll.svg?logo=star&label=Total%20Stars&color=success" />
     </a>
@@ -116,7 +116,7 @@
     <a href="https://www.ubuntu.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40" />
     </a>
-</div>
+</div> -->
 
 ### 📈 Github Statistics
 
