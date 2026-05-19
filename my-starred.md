@@ -163,6 +163,7 @@
 
 ## Go 
 
+- [xbapps/xbvr](https://github.com/xbapps/xbvr) - Tool to organize and stream your VR porn library
 - [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun)
 - [tickstep/aliyunpan](https://github.com/tickstep/aliyunpan) - 阿里云盘命令行客户端，支持JavaScript插件，支持同步备份功能。
 - [moeyy01/gh-proxy-go](https://github.com/moeyy01/gh-proxy-go) - 
