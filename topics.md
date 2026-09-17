@@ -1816,7 +1816,6 @@
 - [CYXup6/ADL-2023-Final](https://github.com/CYXup6/ADL-2023-Final) - 
 - [RuiyangJu/NTU-ADL-23FALL](https://github.com/RuiyangJu/NTU-ADL-23FALL) - NTU ADL 2023 Fall Homework
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-- [bendlang/bend](https://github.com/bendlang/bend) - Bend 2: a fast language that blocks AI mistakes via proof. Coming soon.
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
 - [SweetornotspicyMarathon/Learn-Tensorflow-Keras-Note](https://github.com/SweetornotspicyMarathon/Learn-Tensorflow-Keras-Note) - TensorFlow+Keras 深度學習人工智慧實務應用 書籍(作者:林大貴)學習筆記
@@ -2012,6 +2011,7 @@
 
 - [sger/RustBooks](https://github.com/sger/RustBooks) - List of Rust books
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
+- [bendlang/bend](https://github.com/bendlang/bend) - Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh
 - [gopl-zh/gopl-zh.github.com](https://github.com/gopl-zh/gopl-zh.github.com) - :books: Go语言圣经中文版 🇨🇳
 
 ## project-management 
